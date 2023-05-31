@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @legendtemplate
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Muzammil Safdar.
+- 👀 I’m interested in development and programming.
+- 🌱 I'm learning Frontend Development with react and Next js.
+- 🌱 I’m currently learning the node js and database.
+
 
 <!---
 legendtemplate/legendtemplate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
